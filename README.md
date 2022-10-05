@@ -1,2 +1,2 @@
-# cpbt260-final-project
+# cpnt260-final-project
 Final Project
