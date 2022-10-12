@@ -86,7 +86,7 @@ body {
 
 .toggle-button {
   position: absolute;
-  top: .75rem;
+  top: 9.4rem;
   right: 1rem;
   display: none;
   flex-direction: column;
@@ -167,7 +167,7 @@ footer ul li a:hover{
 }
 
 /* Media Queries */
-@media (max-width: 700px) {
+@media (max-width: 600px) {
   .toggle-button {
     display: flex;
   }
@@ -199,5 +199,9 @@ footer ul li a:hover{
 
   .navbar-links.active {
     display: flex;
+  }
+
+  .banner__text {
+    display: none;
   }
 }
