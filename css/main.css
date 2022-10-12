@@ -18,7 +18,29 @@ body {
 }
 
 /* Banner */
+.banner {
+  background: black;
+  color: #8499b1;
+  font-family: "Montserrat", "Roboto", "sans-serif";
+}
 
+.banner__content {
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.banner__img {
+  max-width: 250px;
+  max-height: 250px;
+  margin-top: 10px;
+}
+
+.banner__text {
+  line-height: 1.4;
+  font-family: "Montserrat", "Roboto", "sans-serif";
+}
 
 /* Navigation */
 * {
