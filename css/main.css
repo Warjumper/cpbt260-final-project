@@ -39,12 +39,6 @@ body {
   color: white;
 }
 
-.brand-title {
-  font-family: "Montserrat", "Roboto", "sans-serif";
-  font-size: 1.5rem;
-  margin: .5rem;
-}
-
 .navbar-links ul {
   margin: 0;
   padding: 0;
@@ -56,7 +50,8 @@ body {
 }
 
 .navbar-links li a {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Montserrat", "Roboto", "sans-serif";
+  font-weight: 600;
   text-decoration: none;
   color: white;
   padding: 1rem;
@@ -64,8 +59,7 @@ body {
 }
 
 .navbar-links li:hover {
-  background-color: #555;
-
+  background-color: #8499b1;
 }
 
 .toggle-button {
@@ -162,11 +156,13 @@ footer ul li a:hover{
   }
 
   .navbar {
+    padding: 1.5rem;
     flex-direction: column;
     align-items: flex-start;
   }
 
   .navbar-links ul {
+    padding-top: 1.5rem;
     width: 100%;
     flex-direction: column;
   }
