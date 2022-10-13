@@ -58,7 +58,6 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: #333;
-  color: white;
 }
 
 .navbar-links ul {
@@ -81,11 +80,12 @@ body {
 }
 
 .navbar-links li:hover {
+  color: #333;
   background-color: #8499b1;
 }
 
 .active-page {
-  background-color: #8499b1;
+  background-color: #284B63;
 }
 
 .toggle-button {
