@@ -84,6 +84,10 @@ body {
   background-color: #8499b1;
 }
 
+.active-page {
+  background-color: #8499b1;
+}
+
 .toggle-button {
   position: absolute;
   top: 9.4rem;
