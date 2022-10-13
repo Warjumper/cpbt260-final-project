@@ -106,7 +106,108 @@ body {
 
 /* Gallery */
 
-/* About Us */
+/* Team Page */
+.team-section h2 {
+  text-align: center;
+
+  font-weight: bold;
+  font-size: 34px;
+
+  margin: 25px 0;
+}
+.team-section p {
+  font-family: "Roboto", "sans-serif";;
+
+  text-align: center;
+
+  font-size: 18px;
+  
+  max-width: 80ch;
+  margin: auto;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  background-color: #f7f7f7;
+}
+
+.cards img {
+  display: block;
+
+  height: 255px;
+
+  margin: 20px;
+}
+
+
+.card{
+  margin: 80px 40px;
+
+  background-color: #F4F9E9;
+
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.288);
+}
+
+.card h3 {
+  text-transform: uppercase;
+
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 3px;
+
+  color: white;
+  
+  background-color: #333;
+
+  text-align: center;
+
+  margin: 10px 20px;
+}
+
+.card p {
+  text-align: center;
+
+  font-weight: 500;
+  letter-spacing: 1px;
+
+  margin-bottom: 10px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.fa, .fab{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  color: #333;
+
+  width: 30px;
+  height: 30px;
+
+  font-size: 20px;
+
+  border-radius: 50%;
+
+  transition: 0.3s;
+}
+
+.social-icons a {
+  text-decoration: none;
+  padding-bottom: 10px;
+}
+
+.fa:hover, .fab:hover {
+  text-decoration: none;
+  color: #0074d5;
+}
 
 /* Contact */
 
