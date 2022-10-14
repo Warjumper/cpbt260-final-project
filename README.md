@@ -26,7 +26,7 @@ Vincent B - https://www.pexels.com/photo/a-man-with-a-basketball-11000093/
 SHVETS PRoduction - https://www.pexels.com/photo/woman-in-sports-clothing-leaning-against-a-wall-and-holding-a-ball-8007211/
 Julia Larson - https://www.pexels.com/video/a-man-on-a-treadmill-6454301/
 Jermaine Ulinwa - https://www.pexels.com/photo/photo-of-woman-wearing-red-boxing-gloves-3225889/
-Silhouette of Men Playing Basketball - https://www.pexels.com/photo/silhouette-of-men-playing-3183649/
+- Silhouette of Men Playing Basketball - https://www.pexels.com/photo/silhouette-of-men-playing-3183649/
 
 ### Icons
 Avatar Icons - Avatar from https://www.flaticon.com/free-icons/avatar/2?word=avatar&order_by=4
