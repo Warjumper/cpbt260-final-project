@@ -371,7 +371,7 @@ input, textarea {
 
 }
 .btn {
- background-color: #8499B1;
+ background-color: #284B63;
  color: white;
  padding: 10px;
  cursor: pointer;
@@ -401,9 +401,10 @@ p {
   
  
 }
-.btn:hover {
-background-color: #284B63;
 
+.btn:hover {
+background-color: #8499B1;
+color: black;
 }
 
 /* Footer */
