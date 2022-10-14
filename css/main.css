@@ -127,7 +127,7 @@ body {
   flex-wrap: wrap;
   gap: 30px;
 
-  max-width: 1250px;
+  max-width: 1280px;
 
   margin: 40px auto;
 }
@@ -152,7 +152,6 @@ body {
 }
 
 .product img {
-
   display: block;
   margin: auto;
   width: 100%;
