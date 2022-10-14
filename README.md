@@ -11,7 +11,7 @@
 - Formspree
 - Plenty of help from Stack Overflow (https://stackoverflow.com/questions/10312857/blue-and-purple-default-links-how-to-remove)
 - W3 schools
-- Gradiet help (https://css-tricks.com/css3-gradients/)
+- Gradient help (https://css-tricks.com/css3-gradients/)
 - Lots of pair coding
 
 ### Above & Beyond
