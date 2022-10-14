@@ -111,35 +111,35 @@ body {
 .hero {
   width: 100%;
   height: 100vh;
-  
+
   display: flex;
-  justify-content: center; 
-  align-items: center;  
-  text-align: center;  
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 
   background-image: url("../images/running.jpg");
   background-size: cover;
   background-position: center center;
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
   transition: 1.25s;
-  
-  animation-name:animate;
-  animation-direction:alternate-reverse;
+
+  animation-name: animate;
+  animation-direction: alternate-reverse;
   animation: duration 30s;
   animation-fill-mode: forwards;
-  animation-iteration-count:infinite ;
-  animation-play-state:running ;
-  animation-timing-function:ease-in-out ;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+  animation-timing-function: ease-in-out;
 }
 
-h1{
+h1 {
   font-size: 5em;
   margin-bottom: 1em;
-  color: rgb(237, 232, 232); 
+  color: rgb(237, 232, 232);
   text-shadow: 2px 2px black;
 }
 
-.img-hero { 
+.img-hero {
   width: 100%;
 }
 
@@ -150,7 +150,7 @@ h1{
   font-size: 60px;
 }
 
-.btn-home{
+.btn-home {
   font-size: 40px;
   font-weight: 600;
   text-transform: uppercase;
@@ -160,12 +160,12 @@ h1{
 
   padding: 12px 25px;
   border-radius: 10px;
-  
+
   transition: 0.2s;
- 
+
 }
 
-.btn-home:hover{
+.btn-home:hover {
   background-color: #8499B1;
   color: black;
 }
@@ -176,7 +176,7 @@ h1{
 
   font-weight: bold;
   font-size: 34px;
-  
+
   margin-top: 25px;
 
 }
@@ -194,18 +194,18 @@ h1{
 }
 
 .product {
- width: 200px;
- height: 470px;
- background-color: #fff;
+  width: 200px;
+  height: 470px;
+  background-color: #fff;
 
- padding: 10px 12px;
- margin: 15px 0;
+  padding: 10px 12px;
+  margin: 15px 0;
 
- cursor: pointer;
+  cursor: pointer;
 
- box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288);
 
- transition: 0.3s;
+  transition: 0.3s;
 }
 
 .product:hover {
@@ -225,9 +225,9 @@ h1{
   margin: 10px 0;
 }
 
-.product .stars i{
+.product .stars i {
   font-size: 15px;
-  
+
   color: #e0e037;
 }
 
@@ -255,13 +255,15 @@ h1{
 
   margin: 25px 0;
 }
+
 .team-section p {
-  font-family: "Roboto", "sans-serif";;
+  font-family: "Roboto", "sans-serif";
+  ;
 
   text-align: center;
 
   font-size: 18px;
-  
+
   max-width: 80ch;
   margin: auto;
 }
@@ -284,7 +286,7 @@ h1{
 }
 
 
-.card{
+.card {
   margin: 80px 40px;
 
   background-color: #F4F9E9;
@@ -300,7 +302,7 @@ h1{
   letter-spacing: 3px;
 
   color: white;
-  
+
   background-color: #333;
 
   text-align: center;
@@ -322,11 +324,12 @@ h1{
   justify-content: space-evenly;
 }
 
-.social-icons .fa, .social-icons .fab{
+.social-icons .fa,
+.social-icons .fab {
   display: flex;
   align-items: center;
   justify-content: center;
-  
+
   color: #333;
 
   width: 30px;
@@ -344,7 +347,8 @@ h1{
   padding-bottom: 10px;
 }
 
-.fa:hover, .fab:hover {
+.fa:hover,
+.fab:hover {
   text-decoration: none;
   color: #0074d5;
 }
@@ -356,7 +360,7 @@ h1{
   padding: 50px;
   background: #ffffff;
   height: 700px;
-  
+
 }
 
 h5 {
@@ -364,22 +368,24 @@ h5 {
   font-size: 60px;
 }
 
-input, textarea {
+input,
+textarea {
   width: 100%;
   height: 50px;
-  
+
 
 }
+
 .btn {
- background-color: #284B63;
- color: white;
- padding: 10px;
- cursor: pointer;
- border-radius: 50px;
- border-color: #284B63;
- font-size: 30px;
- margin-top: 20px;
- padding-bottom: 50px;
+  background-color: #284B63;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 50px;
+  border-color: #284B63;
+  font-size: 30px;
+  margin-top: 20px;
+  padding-bottom: 50px;
 }
 
 p {
@@ -394,19 +400,20 @@ p {
   margin: auto;
   font-weight: 500;
 }
+
 .formcontrol {
   height: 100px;
   resize: none;
- 
+
 }
 
 .btn:hover {
-background-color: #8499B1;
-color: black;
+  background-color: #8499B1;
+  color: black;
 }
 
 /* Footer */
-footer{
+footer {
   background: linear-gradient(to bottom, #fff 5%, #f4f9e9 100%);
 
   display: flex;
@@ -439,14 +446,15 @@ footer ul li {
   list-style: none;
 }
 
-footer ul li a{
+footer ul li a {
   color: #333;
 
   cursor: pointer;
 
   text-decoration: none;
 }
-footer ul li a:hover{
+
+footer ul li a:hover {
   color: #0074d5;
 }
 
@@ -460,11 +468,12 @@ footer ul li a:hover{
 
   padding: 20px 0;
 }
+
 /* 404 Error */
 .error {
   background-color: #f4f2f2;
   background-image: url("/images/error.jpg");
-  background-position:  center;
+  background-position: center;
   background-size: cover;
 }
 
@@ -473,15 +482,17 @@ section.notFound h1 {
   color: #f7f7f7;
   font-size: 100px;
 }
+
 section.notFound h2 {
   font-size: 50px;
-  color: white; 
+  color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   display: flex;
   justify-content: center;
 
 }
- .text {
+
+.text {
   height: 50vh;
   text-align: center;
 }
