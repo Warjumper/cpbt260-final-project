@@ -27,6 +27,8 @@ SHVETS PRoduction - https://www.pexels.com/photo/woman-in-sports-clothing-leanin
 Julia Larson - https://www.pexels.com/video/a-man-on-a-treadmill-6454301/
 Jermaine Ulinwa - https://www.pexels.com/photo/photo-of-woman-wearing-red-boxing-gloves-3225889/
 - Silhouette of Men Playing Basketball - https://www.pexels.com/photo/silhouette-of-men-playing-3183649/
+- Man in Orange Shirt Running - https://www.pexels.com/photo/man-in-orange-shirt-running-11001068/
+
 
 ### Icons
 Avatar Icons - Avatar from https://www.flaticon.com/free-icons/avatar/2?word=avatar&order_by=4
