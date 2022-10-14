@@ -109,6 +109,75 @@ body {
 /* Home Page */
 
 /* Gallery */
+.shop-now {
+  text-align: center;
+
+  margin-top: 40px;
+}
+
+.product-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+
+  max-width: 1250px;
+
+  margin: 40px auto;
+}
+
+.product {
+ width: 200px;
+ height: 470px;
+
+ padding: 10px 12px;
+ margin: 15px 0;
+
+ cursor: pointer;
+
+ box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288);
+
+ transition: 0.3s;
+}
+
+.product:hover {
+  transform: scale(1.05);
+}
+
+.product img {
+  display: block;
+  
+  width: 100%;
+}
+
+.product h3 {
+  font-size: 16px;
+  font-weight: 500;
+
+  margin: 10px 0;
+}
+
+.product .stars i{
+  font-size: 15px;
+  
+  color: #e0e037;
+}
+
+.product .price {
+  font-size: 16px;
+  font-weight: 600;
+
+  color: black;
+
+  margin: 10px 0;
+
+  text-align: start;
+}
+
+.product .color-options {
+  width: 150px;
+}
 
 /* About-Team Page */
 .team-section h2 {
@@ -186,7 +255,7 @@ body {
   justify-content: space-evenly;
 }
 
-.fa, .fab{
+.social-icons .fa, .social-icons .fab{
   display: flex;
   align-items: center;
   justify-content: center;
