@@ -116,6 +116,7 @@ body {
   font-size: 34px;
   
   margin-top: 25px;
+
 }
 
 .product-container {
@@ -133,6 +134,7 @@ body {
 .product {
  width: 200px;
  height: 470px;
+ background-color: #fff;
 
  padding: 10px 12px;
  margin: 15px 0;
