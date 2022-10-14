@@ -349,13 +349,15 @@ h1{
   color: #0074d5;
 }
 
-/* Contact */
+Contact
 .contact {
-  max-width: 700px;
-  margin: auto;
-  padding: 50px;
+  width: 500px;  
   background: #ffffff;
   height: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
   
 }
 
