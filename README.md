@@ -4,7 +4,7 @@
 **Members**; Jesse, Luke, Deoj, Akash.
 
 ### GitHub Repo: https://github.com/Warjumper/cpnt260-final-project
-### Gh Pages:
+### Gh Pages: 
 ### Project Board Link: https://github.com/users/Warjumper/projects/6
     
 ### Code attributions; 
